@@ -3,10 +3,22 @@
     <title>Vantage Notes</title>
     <link href="https://VantageNotes.com/feed.xml" rel="self" />
     <link href="https://VantageNotes.com" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2026-11-19T13:28:10+02:00</updated>
     <author>
         <name>Roee Hirshfeld</name>
     </author>
     <id>https://VantageNotes.com</id>
 
+    <entry>
+        <title>Test all this</title>
+        <author>
+            <name>Roee Hirshfeld</name>
+        </author>
+        <link href="https://VantageNotes.com/test-all-this/"/>
+        <id>https://VantageNotes.com/test-all-this/</id>
+
+        <updated>2026-11-19T13:28:10+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
